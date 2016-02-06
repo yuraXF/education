@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<shop>
+    <goods id="1">
+        <name>milk</name>
+        <price>4</price>
+        <category>low</category>
+        <description>for children</description>
+    </goods>
+    <goods id="2">
+        <name>car</name>
+        <price>5000</price>
+        <category>hight</category>
+        <description>for man</description>
+    </goods>
+</shop>
